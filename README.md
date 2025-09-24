@@ -48,7 +48,7 @@ index.html # Main application file
 ---```
 ---
 Run locally by opening index.html in your browser.
-```🌟 Future Enhancements
+🌟 Future Enhancements
 
 Integrate real-time weather API (e.g., OpenWeather).
 
@@ -62,7 +62,4 @@ Enhance AI assistant with voice input/output.
 
 Contributions are welcome!
 If you’d like to improve this project, feel free to fork the repo and submit a pull request.
-``
-
-## 📂 Project Structure
 
